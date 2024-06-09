@@ -3,7 +3,7 @@ Digital Collection Website Template for Day 31 of 50 Days of Webdev Projects Cha
 
 Join Me Here:
 
-Live Demo: 
+Live Demo: https://codelikeamachine.github.io/Day31of50-Digital-Collection-Website-Template/
 
 LinkedIn: http://www.linkedin.com/in/armaansaraswat
 
